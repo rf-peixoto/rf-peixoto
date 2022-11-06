@@ -1,5 +1,5 @@
 ## Hello.
-Here you can find some random stuff and studies, beware of malwares. My GPG fingerprint:
+Here you can find some random stuff and studies, beware of malwares.
 
 46AA A15D 40CC 2791 7245  1F9E 76B2 A342 7D95 07B7
 
